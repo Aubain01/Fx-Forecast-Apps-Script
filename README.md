@@ -88,10 +88,14 @@ Erreur moyenne à 5 jours ouvrés (en % du taux), mesurée en octobre 2026 :
 
 ## 📸 Aperçu
 
-<!-- Ajouter les captures dans docs/screenshots/ puis décommenter les lignes ci-dessous -->
-<!-- ![Onglet Prévisions](docs/screenshots/previsions.png) -->
-<!-- ![Évaluation du modèle](docs/screenshots/evaluation.png) -->
-<!-- ![Rapport Telegram](docs/screenshots/telegram.png) -->
+   ### Onglet Prévisions
+   ![Onglet Prévisions](docs/screenshots/previsions.png)
+
+   ### Évaluation du modèle (backtest)
+   ![Évaluation du modèle](docs/screenshots/evaluation.png)
+
+   ### Rapport reçu sur Telegram
+   <img src="docs/screenshots/telegram.png" alt="Rapport Telegram" width="400">
 
 Extrait d'un rapport reçu sur Telegram :
 
