@@ -89,7 +89,7 @@ Erreur moyenne à 5 jours ouvrés (en % du taux), mesurée en octobre 2026 :
 ## 📸 Aperçu
 
    ### Onglet Prévisions
-   ![Onglet Prévisions](docs/screenshots/previsions.png)
+   ![Onglet Prévisions](docs/screenshots/prevision.png)
 
    ### Évaluation du modèle (backtest)
    ![Évaluation du modèle](docs/screenshots/evaluation.png)
