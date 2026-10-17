@@ -1,0 +1,6 @@
+Devise source,Devise cible,Montant à convertir,Taux objectif,Actif
+EUR,USD,1000,1.15,OUI
+EUR,GBP,500,,OUI
+EUR,CHF,2000,,OUI
+EUR,XOF,200,,OUI
+USD,JPY,300,,OUI
